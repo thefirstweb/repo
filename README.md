@@ -5,5 +5,5 @@ Sitemaji Repository
 |---|---|
 |sitemaji|1.4.1|
 |Hayzap|1.0.0|
-|Mobvista|1.1.0|
+|Mobvista|2.0.0|
 |clickforce|1.0.0|
