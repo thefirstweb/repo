@@ -3,7 +3,7 @@
   <groupId>com.sitemaji.sdk</groupId>
   <artifactId>sitemaji</artifactId>
   <versioning>
-    <release>1.7.0</release>
+    <release>1.7.1</release>
     <versions>
       <version>1.0.1</version>
       <version>1.1.0</version>
@@ -29,7 +29,8 @@
       <version>1.6.13</version>
       <version>1.6.14</version>
       <version>1.7.0</version>
+      <version>1.7.1</version>
     </versions>
-    <lastUpdated>20200506050354</lastUpdated>
+    <lastUpdated>20200506060720</lastUpdated>
   </versioning>
 </metadata>

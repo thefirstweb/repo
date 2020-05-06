@@ -1,6 +1,6 @@
-sitemaji Repository
+Sitemaji Repository
 --
 
 |library name|version|
 |---|---|
-|sitemaji|1.7.0|
+|sitemaji|1.7.1|
