@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.sitemaji.sdk</groupId>
+  <artifactId>sitemaji</artifactId>
+  <version>1.8.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20210416.085323</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20210416085323</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>1.8.0-20210416.085323-1</value>
+        <updated>20210416085323</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.8.0-20210416.085323-1</value>
+        <updated>20210416085323</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>1.8.0-20210416.085323-1</value>
+        <updated>20210416085323</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
