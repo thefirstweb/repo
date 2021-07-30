@@ -3,4 +3,4 @@ Sitemaji Repository
 
 |library name|version|
 |---|---|
-|sitemaji|1.10.0|
+|sitemaji|1.10.1|
