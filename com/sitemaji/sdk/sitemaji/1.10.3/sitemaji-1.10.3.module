@@ -1,0 +1,68 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.sitemaji.sdk",
+    "module": "sitemaji",
+    "version": "1.10.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.7.1",
+      "buildId": "bmdsms24lnfazenkqerujmgp4i"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "sitemaji-1.10.3.aar",
+          "url": "sitemaji-1.10.3.aar",
+          "size": 117780,
+          "sha512": "6ae29a1c921bff7d87bd884eedb8617ef5868f7fed677e032a6d5e4c57b8b0e86982b34ae9ee0ed0c9fa8e75cf7402967014b123d91905d76ec529836d494f6d",
+          "sha256": "a5c0ae24ad0e4cc999451a6f6b7e7adf556873d0af610038e4cd95b76527b6fa",
+          "sha1": "1ee6fc0eecc35f9ec38596a309b218bd8562ec79",
+          "md5": "eebb08d7378a923cf28cbce476b544aa"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.android.gms",
+          "module": "play-services-ads",
+          "version": {
+            "requires": "20.2.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sitemaji-1.10.3.aar",
+          "url": "sitemaji-1.10.3.aar",
+          "size": 117780,
+          "sha512": "6ae29a1c921bff7d87bd884eedb8617ef5868f7fed677e032a6d5e4c57b8b0e86982b34ae9ee0ed0c9fa8e75cf7402967014b123d91905d76ec529836d494f6d",
+          "sha256": "a5c0ae24ad0e4cc999451a6f6b7e7adf556873d0af610038e4cd95b76527b6fa",
+          "sha1": "1ee6fc0eecc35f9ec38596a309b218bd8562ec79",
+          "md5": "eebb08d7378a923cf28cbce476b544aa"
+        }
+      ]
+    }
+  ]
+}
